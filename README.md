@@ -4,7 +4,7 @@
 
 {Outline Code & Data}
 
-Code:
+<b>Code:</b>
 - Factor Analysis of Mixed Data (FAMD): Modified from Kassambara (2017)
 - {Add others}
 
