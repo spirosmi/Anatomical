@@ -1,6 +1,6 @@
 # Population affinity of unprovenanced anatomical crania: A multifaceted approach using craniometric and taphonomic signature data
 
-### **Authors: Kamnikar, Spiros, Plemons, Dunn, Hefner
+### **Authors: Kamnikar, Spiros, Plemons, Dunn, Hefner**
 
 *{Add Abstract Here}
 
