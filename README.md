@@ -15,3 +15,5 @@
 
 ### References:
 - Kassambara, A. (2017). Practical guide to principal component methods in R: PCA, M (CA), FAMD, MFA, HCPC, factoextra (Vol. 2). Sthda.
+
+### Contact Us:
