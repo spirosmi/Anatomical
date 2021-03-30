@@ -4,11 +4,11 @@
 
 {Outline Code & Data}
 
-<b>Code</b></u>:
+Code:
 - Factor Analysis of Mixed Data (FAMD): Modified from Kassambara (2017)
 - {Add others}
 
-<b><u>Data</b></u>:
+Data:
 - {List and acknowledge}
 
 
